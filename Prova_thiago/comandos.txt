@@ -1,0 +1,207 @@
+    1  clear
+    2  ls
+    3  mkdir prova
+    4  cd prova
+    5  clear
+    6  git clone https://github.com/RyanMoraisC/Prova_thiago.git
+    7  ls
+    8  cd Prova_thiago/
+    9  mkdir Q1
+   10  ls
+   11  cd Q1
+   12  vim questao1
+   13  clear
+   14  ls 
+   15  rm questao1 
+   16  clear
+   17  vim questao1.sh
+   18  clear
+   19  ls
+   20  chmod +x questao1.sh 
+   21  bash questao1.sh 
+   22  clear
+   23  ls
+   24  cd ..
+   25  ls
+   26  mkdir q2
+   27  clear
+   28  vim questao2
+   29  clear
+   30  ls
+   31  cd q2
+   32  ls
+   33  vim questao2.sh
+   34  clear
+   35  ls
+   36  chmod +x questao2.sh 
+   37  bash questao2.sh 
+   38  clear
+   39  ls
+   40  cd ..
+   41  ls
+   42  mkdir Q3
+   43  ls
+   44  cd Q3
+   45  ls
+   46  vim questao3.sh
+   47  clear
+   48  lks
+   49  ls
+   50  chmod +x questao3.sh 
+   51  bash questao3.sh 
+   52  clear
+   53  ls
+   54  cd ..
+   55  ls
+   56  mv q2 Q2
+   57  LS
+   58  ls
+   59  mv Q3 Q4
+   60  LS
+   61  ls
+   62  cd Q4
+   63  ls
+   64  nano questao3.sh 
+   65  ls
+   66  clear
+   67  ls
+   68  vim questao4.sh 
+   69  ls
+   70  chmod +x questao4.sh 
+   71  ls
+   72  rm questao3.sh 
+   73  ls
+   74  clear
+   75  cd ..
+   76  ls
+   77  mkdir Q3
+   78  cd Q3
+   79  ls
+   80  vim questao3.sh
+   81  ls
+   82  clear
+   83  chmod +x questao3.sh 
+   84  ls
+   85  clear
+   86  vim questao3.sh 
+   87  clear
+   88  ls
+   89  bash questao3.sh 
+   90  cd ..
+   91  ls
+   92  mdkir Q5
+   93  mkdir Q5
+   94  cd Q5
+   95  ls
+   96  clear
+   97  ls
+   98  vim questão5.sh
+   99  ls
+  100  clear
+  101  cd ..
+  102  ls
+  103  cd Q1
+  104  ls
+  105  vim questao1.sh 
+  106  clear
+  107  cd ..
+  108  ls
+  109  cd Q2
+  110  vim questao2.sh 
+  111  clear
+  112  cd ..
+  113  cd Q3
+  114  ls
+  115  vim questao3.sh 
+  116  ls
+  117  clear
+  118  cd ..
+  119  ls
+  120  cd Q4
+  121  ls
+  122  vim questao4.sh 
+  123  clear
+  124  cd ..
+  125  ls
+  126  cd Q5
+  127  ls
+  128  vim questão5.sh 
+  129  ls
+  130  clear
+  131  ls
+  132  chmod +x questão5.sh 
+  133  ls
+  134  clear
+  135  bash questão5.sh 
+  136  vim questão5.sh 
+  137  clear
+  138  ls
+  139  rm ryan
+  140  rm -rf ryan
+  141  ls
+  142  clear
+  143  ls
+  144  rm -rf 'ryan '
+  145  clear
+  146  ls
+  147  bash questão5.sh 
+  148  ls
+  149  vim questão5.sh 
+  150  clear
+  151  cd ..
+  152  ls
+  153  mkdir Q6
+  154  cd Q6
+  155  ls
+  156  vim questao6.sh
+  157  clear
+  158  ls
+  159  chmod +x questao6.sh 
+  160  ls
+  161  bash questao6.sh 
+  162  cd ..
+  163  ls
+  164  mkdir Q7
+  165  ls
+  166  cd Q7
+  167  clear
+  168  ls
+  169  vim questao7.sh
+  170  ls
+  171  chmod +x questao7.sh 
+  172  ls
+  173  bash questao7.sh 
+  174  vim questao7.sh 
+  175  ls
+  176  bash questao7.sh 
+  177  clear
+  178  vim questao7.sh 
+  179  clear
+  180  vf ..
+  181  clear
+  182  cd ..
+  183  ls
+  184  git add
+  185  git add Q1
+  186  git commit -m
+  187  git commit -m "Adicionada a Pasta 1"
+  188  git config --global ryan.mail "ryanmoraestaynan@gmail.com"
+  189  git config --global user.name "Ryan Correia"
+  190  git commit -m "Adicionada a Pasta 1"
+  191  git commit 
+  192  clear
+  193  git push
+  194  ls
+  195  git push Q1
+  196  clear
+  197  ls
+  198  cd Q1
+  199  git init
+  200  ls
+  201  git add .
+  202  git remote add origin https://github.com/RyanMoraisC/Prova_thiago.git
+  203  git push -u origin master
+  204  ls
+  205  cd ..
+  206  ls
+  207  history > comandos.txt
